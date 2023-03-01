@@ -23,18 +23,15 @@ part of the learning process. There are two modes your mind may go into when lea
 
 ## Bash Shell Command Cheat Sheet
 
-| Input Command                           | Command Results                    |
+| **Input Command**                       | **Command Results**                |
 | --------------------------------------- | ---------------------------------- |
-| How to Reset                            |                                    |
-| --------------------------------------- | ---------------------------------- |
+| **How to Reset**                        |                                    |
 | <kbd>Ctrl ⌃</kbd> + <kbd>C</kbd>        | Cancel job                         |
 | `reset`                                 | fix jank [resets terminal          |
 | <kbd>Cmd ⌘</kbd> + <kbd>K</kbd>         | **K**lear the **K**onsole          |
 | **or** <kbd>Ctrl ⌃</kbd> + <kbd>L</kbd> | c**L**ear the conso**L**e          |
 | <kbd>Ctrl ⌃</kbd> + <kbd>D</kbd>        | **D**one (en**D** of file)         |
-| --------------------------------------- | ---------------------------------- |
-| Navigate & Manipulate files             |                                    |
-| --------------------------------------- | ---------------------------------- |
+| **Navigate & Manipulate files**         |                                    |
 | `pwd`                                   | print working directory            |
 | `cd`                                    | change directory                   |
 | `mkdir`                                 | makes directory                    |
@@ -42,9 +39,7 @@ part of the learning process. There are two modes your mind may go into when lea
 | `rm` **&** `rm -r`                      | deletes files & directories        |
 | `cp` **&** `cp -r`                      | copies files & directories         |
 | `touch`                                 | creates new file                   |
-| --------------------------------------- | ---------------------------------- |
-| Git Commands                            |                                    |
-| --------------------------------------- | ---------------------------------- |
+| **Git Commands**                        |                                    |
 
 ## Notes
 
