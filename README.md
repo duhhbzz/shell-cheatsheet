@@ -86,3 +86,56 @@ The tools make the man, so install not just the necessary tools, but the best to
 
 3. Learn
 ````
+
+ctrl S - pauses/locks active cmd
+ctrl Q - resumes the pause
+
+$ starts variables
+
+\ before a symbol that does something, negates it and turns it
+into a string
+
+ctrl - a is equivalent to "home"
+ctrl - e is equivalent to "end"
+
+VIM
+navigation reminder tip HJKL
+Awesome always goes up
+
+Terminal
+Pipeline extras
+
+> replace file with stdOUT
+> < stdIN from file
+> | stdOUT to stIN
+> 2> stderr to file
+>
+> > append stdOUT to file
+> > /dev/tty write to terminal
+
+VIM
+vimVOWELS
+Insert After Open
+
+vimDEUTSCHLANDICS
+u undo
+v cursor highlight (ms shift)
+d delete
+vdu copy
+p paste
+
+chomod makes executable
+
+## #Scripting
+
+@ is the whole array
+
+-   exact string input
+
+ALWAYS head scripts with
+
+```
+#1/bin/sh
+set -e
+set -u
+```
